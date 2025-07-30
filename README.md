@@ -1,2 +1,2 @@
 # Guessing-game
-its me game
+its my game
